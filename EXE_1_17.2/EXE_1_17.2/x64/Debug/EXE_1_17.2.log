@@ -1,0 +1,30 @@
+﻿  exe.c
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(78,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(78,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(80,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(80,12):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(82,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(82,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(84,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(84,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(86,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(86,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(88,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(88,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(90,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Gitee\C_program_notes\EXE_1_17.2\EXE_1_17.2\exe.c(90,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  EXE_1_17.2.vcxproj -> D:\Gitee\C_program_notes\EXE_1_17.2\x64\Debug\EXE_1_17.2.exe
