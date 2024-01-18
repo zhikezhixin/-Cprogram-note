@@ -1,0 +1,6 @@
+﻿  exe.c
+D:\Gitee\C_program_notes\Exe_1.18_1\Exe_1.18_1\exe.c(47,19): warning C4133: “初始化”: 从“test *”到“stu *”的类型不兼容
+D:\Gitee\C_program_notes\Exe_1.18_1\Exe_1.18_1\exe.c(52,32): warning C4311: “类型强制转换”: 从“stu *”到“unsigned long”的指针截断
+D:\Gitee\C_program_notes\Exe_1.18_1\Exe_1.18_1\exe.c(52,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\Gitee\C_program_notes\Exe_1.18_1\Exe_1.18_1\exe.c(52,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "unsigned long" 的参数 1 冲突
+  Exe_1.18_1.vcxproj -> D:\Gitee\C_program_notes\Exe_1.18_1\x64\Debug\Exe_1.18_1.exe
