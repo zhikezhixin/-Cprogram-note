@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Gitee\C_program_notes\exe_1_29\exe_1_29\test.c(70,35): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+  exe_1_29.vcxproj -> D:\Gitee\C_program_notes\exe_1_29\x64\Debug\exe_1_29.exe
